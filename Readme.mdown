@@ -10,7 +10,7 @@ vagrant plugin install vagrant-reload
 
 ##### Vagrant windows box
 
-###### Command list
+######  Command list
 
 ```sh
     # TO list installed vagrant plugins
